@@ -1,2 +1,3 @@
 *.log
-dir1/
+/dir1/
+static/dir1
